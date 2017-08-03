@@ -100,6 +100,7 @@ li {
    =============== */
 
 body {
+    text-align: center;
     font-size: 1.2rem;
     line-height: 1.5;
     background-color: #f7f7f7;
@@ -181,8 +182,8 @@ header .main .brand {
 }
 header .main img{
 
-    width: 432px;
-    height: 172px;
+   /* width: 432px;
+    height: 172px;*/
     vertical-align: center;
     top:-20px;
 }
